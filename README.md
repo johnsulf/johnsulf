@@ -9,7 +9,7 @@ Outside of work and studies, I’m a passionate disc golfer and the creator of *
 ## 🎯 What I’m focusing on
 
 - Building solid front-end solutions with **HTML**, **CSS**, and **TypeScript**
-- Working with frameworks like **Angular**, **Svelte**, and **Flutter/Dart**
+- Working with frameworks like **Angular**, **React**, **Svelte**, **ASP.NET**, and **Flutter/Dart**
 - Improving my skills in **UI/UX**, **responsive design**, and **application structure**
 - Maintaining a professional developer presence through clear documentation and portfolio work
 
@@ -17,35 +17,54 @@ Outside of work and studies, I’m a passionate disc golfer and the creator of *
 
 ## 🧰 Tech Stack
 
-**Languages & Markup**
+**Languages**
 
-- JavaScript (ES6+)
-- TypeScript
-- Dart
-- HTML5
-- CSS3
+- TypeScript  
+- JavaScript (ES6+)  
+- C#  
+- Dart  
+- HTML5  
+- CSS3  
 
 **Frameworks & Libraries**
 
 - Angular  
+- React  
 - Svelte  
 - Flutter  
+- ASP.NET  
+- Bootstrap  
+- Tailwind CSS  
 
 **Tools & Platforms**
 
+- Firebase  
 - Git & GitHub  
 - Node.js & npm  
-- VS Code  
+- Visual Studio  
+- Visual Studio Code  
 - REST APIs  
-- GitHub Pages / Netlify (for hosting)
+- GitHub Pages / Netlify  
 
 ---
 
 ## 📁 Featured Projects (Noroff – Portfolio 2)
 
-Below are the three main projects from my last year at Noroff, documented and structured according to the Portfolio 2 assignment. Each project has its own README in the repository with setup instructions, tech stack, and feature overview.
+Below are the main projects from my last year at Noroff, including the **Portfolio 2** webpage and three larger course projects. Each project has its own README in the repository with setup instructions, tech stack, and feature overview.
 
-### 1. Semester Project 2
+### 1. Portfolio 2 – Personal Portfolio Webpage
+
+A responsive portfolio webpage created for the Portfolio 2 assignment. It lists the three main projects as cards, each with a title, short description, screenshot, and links to the GitHub repo and live site.
+
+- **Project type:** Portfolio 2 – Personal portfolio webpage  
+- **Repository:**  
+  [GitHub – Portfolio 2](https://github.com/johnsulf/portfolio2)  
+- **Live site:**  
+  [Live demo](https://johnsulf.github.io/portfolio2/)
+
+---
+
+### 2. Semester Project 2
 
 A larger front-end project showcasing structured UI development, routing, and API integration.
 
@@ -57,7 +76,7 @@ A larger front-end project showcasing structured UI development, routing, and AP
 
 ---
 
-### 2. JavaScript Frameworks CA
+### 3. JavaScript Frameworks CA
 
 A project focused on using a JavaScript framework to build a component-based application.
 
@@ -69,7 +88,7 @@ A project focused on using a JavaScript framework to build a component-based app
 
 ---
 
-### 3. Project Exam 2
+### 4. Project Exam 2
 
 A more comprehensive exam project, demonstrating planning, implementation, and documentation of a front-end application.
 
@@ -78,22 +97,6 @@ A more comprehensive exam project, demonstrating planning, implementation, and d
   [GitHub – Project Exam 2](https://github.com/johnsulf/project-exam-2)  
 - **Live site:**  
   [Live demo](https://johnsulf.github.io/project-exam-2/)
-
----
-
-## 🌐 Portfolio 2
-
-As part of the Portfolio 2 assignment, I have created a personal portfolio webpage that lists these three projects as cards, each with:
-
-- Project title  
-- Short description  
-- Screenshot of the running project  
-- Link to the GitHub repository  
-- Link to the live site (where available)
-
-You can view it here:
-
-👉 [My Portfolio Webpage](https://johnsulf.github.io/portfolio2/)
 
 ---
 
